@@ -1,14 +1,17 @@
 ---
-title: Our project name
+title: Bottle Spinner
 type: docs
 ---
 
-# The project name
+# Bottle Spinner
 
 ## Abstract
 
-A short and concise description of your project. 
+The Bottle Spinner is a device tackling the issue of commercially available bottles holding shampoo, soap or even honey and glue.
+Often times the consumer cannot empty the bottle whole, as the last few scraps will always get stuck on the bottom of the bottle.
+This device solves this issue by using centrifugal force to bring all of the contents of these bottles to the opening of these bottles.
 
+The Bottle Spinner uses centrifugal force to bring all of the contents of shampoo bottles or even substances like honey or glue to the front of the bottle.
 ## Introduction
 
 A detailed description of the concept and sketches of the planned implementation.
