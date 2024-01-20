@@ -49,7 +49,7 @@ Update the following files to your own content:
 
 Put all images, videos and GIFs you want to embed in your documentation into the assets folder.
 
-first commandline "hugo", then "hugo setup -D"
+first commandline "hugo", then "hugo server -D"
 Then visit http://localhost:1313 to view the documentation.
 
 [use this template]: https://github.com/pretoms/dpp_docs/generate
